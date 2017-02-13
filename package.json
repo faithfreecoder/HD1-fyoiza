@@ -1,0 +1,31 @@
+{
+  "name": "hd1-fyoiza",
+  "version": "1.0.0",
+  "description": "\"Home Day 1 Exercises- Andela Bootcamp\"",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faithfreecoder/HD1-fyoiza.git"
+  },
+  "keywords": [
+    "jasmine-npm",
+    "javascript"
+  ],
+  "author": "Faith <fyoiza@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faithfreecoder/HD1-fyoiza/issues"
+  },
+  "homepage": "https://github.com/faithfreecoder/HD1-fyoiza#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jasmine": "^2.5.3",
+    "jasmine-node": "^1.14.5"
+  }
+}
